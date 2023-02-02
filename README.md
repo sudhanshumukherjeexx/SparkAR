@@ -42,3 +42,6 @@ https://sparkar.facebook.com/ar-studio/download/
 * [Spark AR extensions](https://sparkar-community.gitbook.io/docs/)
 
 * [Spark AR Reddit Community](https://www.reddit.com/r/SparkArStudio/)
+
+
+theme: minima
