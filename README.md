@@ -1,4 +1,3 @@
-<img src="./images/sparkARlogo.jpg" alt="alt text" width="200" height="200"/>
 ![image](./images/sparkARlogo.jpg#center)
 
 # SparkAR Studio
