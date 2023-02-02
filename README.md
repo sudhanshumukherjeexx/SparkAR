@@ -1,4 +1,4 @@
-![image](./images/sparkARlogo.jpg#center)
+<center>![image](./images/sparkARlogo.jpg)</center>
 
 # SparkAR Studio
 Spark AR lets your business create and share augmented reality experiences that reach the billions of people using Facebook, Messenger and Instagram.
