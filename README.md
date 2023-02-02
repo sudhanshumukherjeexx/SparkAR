@@ -30,7 +30,7 @@ In this filter, we will craft a SNOW effect and equip it with the ability to be 
 Utilizing 5 distinct UI pickers, we will alter the background to create 5 unique variations and include a button for easy access by clicking.
 
 # Download SparkAR Studio here:
-https://sparkar.facebook.com/ar-studio/download/
+[LINK](https://sparkar.facebook.com/ar-studio/download/)
 
 # Learning Resources
 
